@@ -22,6 +22,9 @@ public class SendMessageListener implements ActionListener {
     private JTextField message;
     private ChatClient chatClient;
     private ClientChangeListener gui;
+    private String TAG = "SendMessageListener";
+    
+    //comment
 
     private static final String CANNOT_SEND_MESSAGE = "Cannot send current message. Please try again.";
 

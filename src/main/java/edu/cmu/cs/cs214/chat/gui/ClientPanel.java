@@ -43,6 +43,8 @@ public class ClientPanel extends JPanel implements ClientChangeListener {
 
     private static final int AREA_HEIGHT = Integer.parseInt("20");
 
+    //hjhjkhkhjk
+    
     private ChatClient client;
 
     private final JLabel usernameLabel;
